@@ -26,6 +26,11 @@ public class Conta2 {
 		}
 	}
 	
+	public int getNumero() {
+		return numero;
+		
+	}
+	
 	void depositar (double valor) {
 		saldo = saldo + valor;
 	}

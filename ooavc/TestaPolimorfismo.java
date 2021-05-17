@@ -11,8 +11,8 @@ public class TestaPolimorfismo {
 		
 		Gerente g1 = new Gerente();
 		g1.setSalario(10000);
-		System.out.println("O salário do Gerenteo g1 é: " + g1.getSalario());
-		System.out.println("O bonus do Gerenteo g1 é: " + g1.getBonus());
+		System.out.println("O salário do Gerente g1 é: " + g1.getSalario());
+		System.out.println("O bonus do Gerente g1 é: " + g1.getBonus());
 	}	
 
 }

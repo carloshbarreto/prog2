@@ -29,7 +29,7 @@ public class Gerente extends Funcionario implements AcessoBancoInterno {
 	
 	//Nova versão por causa da classe abstrata
 	double getBonus() {
-		return this.salario *0.15 + 5000;
+		return this.salario *0.05 + 5000;
 		
 		
 	}

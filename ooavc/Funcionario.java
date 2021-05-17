@@ -69,7 +69,9 @@ public abstract class Funcionario {
 		this.status = status;
 	}
 	
-	public void verifica();
+	public void verifica() {
+		
+	}
 	
 	
 	

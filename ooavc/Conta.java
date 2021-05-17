@@ -17,6 +17,10 @@ public class Conta {
 		}
 	}
 	
+	public int getNumero() {
+		return numero;
+	}
+	
 	void depositar (double valor) {
 		saldo = saldo + valor;
 	}

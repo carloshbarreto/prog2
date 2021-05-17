@@ -10,6 +10,7 @@ public class TestaConta3 {
 		c2 = c1;
 		c2.limite = 200;
 		 System.out.println(c1.limite);
+		 System.out.println(c2.limite);
 		
 	}
 
